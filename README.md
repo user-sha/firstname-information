@@ -1,5 +1,4 @@
 # MineCraft Name History Information Dataset
-Look up first names for OG MineCraft usernames
 
   **Information**
   - Creation dates might be inaccurate.
